@@ -1,0 +1,6 @@
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\bin\Release\PostCodeESIO.exe.config
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\bin\Release\PostCodeESIO.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\bin\Release\PostCodeESIO.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\obj\Release\PostCodeESIO.csproj.CoreCompileInputs.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\obj\Release\PostCodeESIO.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\obj\Release\PostCodeESIO.pdb

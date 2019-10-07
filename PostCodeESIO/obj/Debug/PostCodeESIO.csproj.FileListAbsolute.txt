@@ -1,0 +1,12 @@
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\bin\Debug\PostCodeESIO.exe.config
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\bin\Debug\PostCodeESIO.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\bin\Debug\PostCodeESIO.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\obj\Debug\PostCodeESIO.csprojAssemblyReference.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\obj\Debug\PostCodeESIO.csproj.CoreCompileInputs.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\obj\Debug\PostCodeESIO.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\obj\Debug\PostCodeESIO.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\bin\Debug\RestSharp.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\bin\Debug\RestSharp.xml
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week9\Day1\PostCodeESIO\PostCodeESIO\obj\Debug\PostCodeESIO.csproj.CopyComplete
